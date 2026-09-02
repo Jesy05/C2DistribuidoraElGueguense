@@ -1,4 +1,4 @@
-package ni.edu.uam.distribuidoraelgueguense.controllers;
+package ni.edu.uam.c2distribuidoraelgueguense.controllers;
 
 import javafx.application.Platform;
 import javafx.collections.FXCollections;
@@ -12,8 +12,8 @@ import javafx.scene.input.KeyCode;
 import javafx.scene.input.KeyEvent;
 import javafx.scene.input.MouseEvent;
 import ni.edu.uam.distribuidoraelgueguense.models.Colaborador;
-import ni.edu.uam.distribuidoraelgueguense.utils.Alertas;
-import ni.edu.uam.distribuidoraelgueguense.utils.Validador;
+import ni.edu.uam.c2distribuidoraelgueguense.utils.Alertas;
+import ni.edu.uam.c2distribuidoraelgueguense.utils.Validador;
 
 import java.net.URL;
 import java.time.LocalDate;
