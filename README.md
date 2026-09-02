@@ -6,10 +6,10 @@ temporalmente en una `ObservableList` (sin base de datos).
 
 ## Integrantes
 
-| Nombre completo | Usuario GitHub | Aporte principal |
-|-----------------|----------------|------------------|
-| _Integrante 1_  | _@usuario1_    | Modelo `Colaborador`, controlador y eventos |
-| _Integrante 2_  | _@usuario2_    | Interfaz FXML, validaciones y menús |
+| Nombre completo | Usuario GitHub                 | Aporte principal |
+|-----------------|--------------------------------|------------------|
+| _Integrante 1_  | _José Cristo Carvallo Herrera_ | Modelo `Colaborador`, controlador y eventos |
+| _Integrante 2_  | _Jesy Nicole Gonzalez Jarquin_ | Interfaz FXML, validaciones y menús |
 
 ## Funcionalidad
 
