@@ -11,7 +11,7 @@ import javafx.scene.image.ImageView;
 import javafx.scene.input.KeyCode;
 import javafx.scene.input.KeyEvent;
 import javafx.scene.input.MouseEvent;
-import ni.edu.uam.distribuidoraelgueguense.models.Colaborador;
+import ni.edu.uam.c2distribuidoraelgueguense.models.Colaborador;
 import ni.edu.uam.c2distribuidoraelgueguense.utils.Alertas;
 import ni.edu.uam.c2distribuidoraelgueguense.utils.Validador;
 
@@ -82,7 +82,7 @@ public class ColaboradorController {
 
     private void cargarLogo() {
         try {
-            URL url = getClass().getResource("/ni/edu/uam/distribuidoraelgueguense/images/logo.png");
+            URL url = getClass().getResource("/ni/edu/uam/c2distribuidoraelgueguense/images/logo.png");
             if (url != null) {
                 imgLogo.setImage(new Image(url.toExternalForm()));
             }

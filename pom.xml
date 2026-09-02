@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                ni.edu.uam.c2distribuidoraelgueguense/ni.edu.uam.c2distribuidoraelgueguense.HelloApplication
+                                ni.edu.uam.c2distribuidoraelgueguense/ni.edu.uam.c2distribuidoraelgueguense.App
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
