@@ -74,7 +74,4 @@ con Scene Builder.
 _Capturas de la aplicación en funcionamiento:_
 ![img.png](docs/img.png)
 
-- Ventana principal
-- Mensaje de validación
-- Alta / actualización / eliminación de un colaborador
-- Menú *Acerca de* y `ContextMenu` de la tabla
+
