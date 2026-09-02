@@ -71,7 +71,8 @@ con Scene Builder.
 
 ## Capturas
 
-_Agregar aquí las capturas de la aplicación en funcionamiento:_
+_Capturas de la aplicación en funcionamiento:_
+![img.png](docs/img.png)
 
 - Ventana principal
 - Mensaje de validación
